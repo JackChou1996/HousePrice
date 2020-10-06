@@ -1,0 +1,27 @@
+,whether missing,missing ratio
+id,False,
+Lng,False,0.0
+Lat,False,0.0
+Cid,False,0.0
+tradeTime,False,0.0
+DOM,True,0.4954571257421178
+followers,False,0.0
+totalPrice,False,0.0
+price,False,0.0
+square,False,0.0
+livingRoom,True,0.00010036035640471568
+drawingRoom,True,0.00010036035640471568
+kitchen,False,0.0
+bathRoom,True,0.00010036035640471568
+floor,True,0.004086548262354516
+buildingType,True,0.006338383759185325
+constructionTime,True,0.06057688387365886
+renovationCondition,False,0.0
+buildingStructure,False,0.0
+ladderRatio,False,0.0
+elevator,True,0.00010036035640471568
+fiveYearsProperty,True,0.00010036035640471568
+subway,True,0.00010036035640471568
+district,False,0.0
+communityAverage,True,0.00145208890673073
+floor_num,True,0.5442761666107366
